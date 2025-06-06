@@ -1,4 +1,4 @@
-package com.dreamlabs.osm.pbf;
+package com.dreamlabs.graalvm;
 
 import java.util.ArrayList;
 import java.util.List;
